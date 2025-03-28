@@ -19,8 +19,5 @@ Project Overview:
 Key Features:
 1.	Data Exploration: Visualizations to explore relationships between various metrics such as water scarcity, agricultural use, and total water consumption.
 2. Model Evaluation: We evaluated the prediction model's performance using appropriate metrics (e.g., RMSE, MAE) to ensure accurate forecasts.
-3. 3. Predictions: The model predicts future water consumption based on the trends identified in the dataset, aiding in strategic planning for water resource management.
+3. Predictions: The model predicts future water consumption based on the trends identified in the dataset, aiding in strategic planning for water resource management.
       
-This project provides insights into how machine learning can be applied to large-scale datasets for predictive analytics in the field of environmental science, specifically water consumption.
-
-
