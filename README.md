@@ -1,5 +1,4 @@
 # PUSL 3121 - BIG DATA ANALYTICS
-# ________________________________________
 
 # Global Water Consumption Prediction
 This project focuses on Big Data Analytics to predict total water consumption for global countries over the years 2000 to 2024. The dataset used in this analysis contains various metrics related to water consumption, including total water consumption, per capita water use, water scarcity levels, and more for each country.
